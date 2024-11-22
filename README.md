@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @coconuts2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- こんにちは👋 @coconuts2です。
+- 👀 興味があるのはサイト・アプリの作成です。
+- 🌱 現在HTMLとJavaScriptを学んでいます。
+- 💞️
+- 📫
+- 😄
+- ⚡
+- 
 <!---
-coconuts2/coconuts2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+これは✨特別なリポジトリ✨です。このファイル が GitHub のプロファイルに表示されるからです。
+Previewリンクをクリックすると、変更を確認することができます。
 --->
